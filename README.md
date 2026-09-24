@@ -75,7 +75,7 @@ The dataset contains:
 
 ### Dataset Source
 
-DATASET_SOURCE_LINK_HERE
+DATASET_SOURCE_LINK_HERE=https://www.kaggle.com/datasets/atomicd/retail-store-inventory-and-demand-forecasting
 
 ---
 
